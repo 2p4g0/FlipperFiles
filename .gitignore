@@ -1,0 +1,6 @@
+.build/
+.DS_Store
+*.app
+*.zip
+.swiftpm/
+Tools/icon_1024.png
